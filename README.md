@@ -8,6 +8,8 @@
     - [ ] Introduction to Statistics with Python
     - [ ] Bayesian Machine Learning
     - [ ] An Introduction to Statistical Learning with Applications in R (http://www-bcf.usc.edu/~gareth/ISL/)
+    - [ ] Topology Without Tears
+    - [ ] Real Analysis book
 - NLP/ML:
     - [X] NLTK Book
     - [ ] **Hands on Machine Learning**
