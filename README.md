@@ -14,6 +14,7 @@
     - [X] NLTK Book
     - [X] Hands on Machine Learning
     - [X] Handbook of Natural Language Processing
+    - [ ] Speech and Language Processing
     - [ ] **Programming Collective Intelligence**
     - [ ] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
