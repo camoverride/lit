@@ -59,6 +59,7 @@
     - [X] How Linux Works
     - [ ] The Linux Programming Interface
 - programming:
+    - [ ] Violent Python
     - [X] Effective Python
     - [ ] **Fluent Python**
     - [X] Mastering Python Regular Expressions
