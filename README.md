@@ -1,7 +1,7 @@
 ### THINGS TO READ:
 - math/stats:
-    - [ ] **Elements of Information Theory**
-    - [ ] **Linear Algebra Done Right**
+    - [ ] Elements of Information Theory
+    - [ ] Linear Algebra Done Right
     - [ ] Mathematical Statistics and Data Analysis
     - [X] Introduction to Mathematical Statistics
     - [ ] Probability and Random Variables
@@ -15,20 +15,20 @@
     - [X] Hands on Machine Learning
     - [X] Handbook of Natural Language Processing
     - [ ] Speech and Language Processing
-    - [ ] **Programming Collective Intelligence**
+    - [ ] Programming Collective Intelligence
     - [ ] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems
     - [ ] Building Machine Learning Systems with Python
-    - [ ] Deep Learning Book
+    - [X] Deep Learning Book
     - [ ] Bayesian Reasoning and Machine Learning
     - [ ] The Elements of Statistical Learning
     - [ ] Think Python
 - data science:
-    - [ ] **SQL Cookbook**
+    - [ ] SQL Cookbook
     - [ ] Web Scraping with Python
     - [ ] Building Real Time Data Pipelines
-    - [ ] **Data Science from Scratch**
+    - [ ] Data Science from Scratch
     - [ ] Bayesian Data Analysis
     - [ ] Building Real Time Data Platforms
     - [ ] Data Analysis Using Regression
@@ -61,7 +61,7 @@
 - programming:
     - [ ] Violent Python
     - [X] Effective Python
-    - [ ] **Fluent Python**
+    - [ ] Fluent Python
     - [X] Mastering Python Regular Expressions
     - [ ] Learning Python
     - [ ] Accelerated C++
