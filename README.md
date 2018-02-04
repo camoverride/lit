@@ -64,7 +64,7 @@
     - [ ] Fluent Python
     - [X] Mastering Python Regular Expressions
     - [ ] Learning Python
-    - [ ] Accelerated C++
+    - [X] Accelerated C++
     - [ ] Python Cookbook
     - [ ] I Heart Logs
     - [ ] JavaScript: the Definitive Guide 
