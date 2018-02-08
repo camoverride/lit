@@ -15,7 +15,7 @@
     - [X] Hands on Machine Learning
     - [X] Handbook of Natural Language Processing
     - [ ] Speech and Language Processing
-    - [ ] Programming Collective Intelligence
+    - [X] Programming Collective Intelligence
     - [ ] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems
@@ -23,6 +23,7 @@
     - [X] Deep Learning Book
     - [ ] Bayesian Reasoning and Machine Learning
     - [ ] The Elements of Statistical Learning
+    - [ ] Pattern Recognition and Machine Learning
     - [ ] Think Python
 - data science:
     - [ ] SQL Cookbook
