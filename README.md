@@ -49,6 +49,7 @@
 - algorithms/compsci:
     - [X] Code
     - [X] Grokking Algorithms
+    - [ ] Algorithm Design Manual
     - [ ] Cracking the Coding Interview
     - [ ] The Structure and Interpretation of Computer Programs
     - [ ] Introduction to Algorithms
