@@ -1,31 +1,28 @@
 ### THINGS TO READ:
 - math/stats:
-    - [X] Introduction to Mathematical Statistics
-    - [ ] Bayesian Data Analysis
     - [ ] Elements of Information Theory
     - [ ] Linear Algebra Done Right
     - [ ] Mathematical Statistics and Data Analysis
+    - [X] **Introduction to Mathematical Statistics**
     - [ ] Probability and Random Variables
+    - [ ] Introduction to Statistics with Python
     - [ ] Bayesian Machine Learning
-    - [ ] Topology Without Tears
+    - [ ] An Introduction to Statistical Learning with Applications in R (http://www-bcf.usc.edu/~gareth/ISL/)
 - NLP/ML:
     - [X] NLTK Book
-    - [X] Hands on Machine Learning
-    - [X] Handbook of Natural Language Processing
-    - [X] Speech and Language Processing
-    - [X] Programming Collective Intelligence
-    - [X] Path to Predictive Analytics and Machine Learning
+    - [ ] **Hands on Machine Learning**
+    - [ ] **Handbook of Natural Language Processing**
+    - [ ] Programming Collective Intelligence
+    - [ ] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
+    - [ ] Building Machine Learning Systems
     - [ ] Building Machine Learning Systems with Python
-    - [X] Deep Learning Book
+    - [ ] Deep Learning Book
     - [ ] Bayesian Reasoning and Machine Learning
     - [ ] The Elements of Statistical Learning
-    - [ ] Pattern Recognition and Machine Learning
     - [ ] Think Python
-    - [ ] Machine Learning for Hackers
-- data science:
-    - [X] Python for Data Analysis
-    - [ ] SQL Cookbook
+- data sciene:
+    - [ ] **SQL Cookbook**
     - [ ] Web Scraping with Python
     - [ ] Building Real Time Data Pipelines
     - [ ] Data Science from Scratch
@@ -34,13 +31,13 @@
     - [ ] Data Analysis Using Regression
     - [ ] Data Science and Complex Networks
     - [ ] Data Science at the Command Line
-    - [ ] Data Science from Scratch
     - [ ] Doing Data Analysis
     - [ ] Mathematical Statistics and Data Analysis
+    - [ ] Python Data Analysis
     - [ ] Python End-to-End Data Analysis
+    - [ ] Python for Data Analysis
 - networks:
     - [X] Flask Web Development
-    - [ ] Violent Python
     - [ ] CCNA Electronic Book
     - [ ] Hacking: The Art of Exploitation
     - [ ] Internet Routing Architectures
@@ -48,9 +45,11 @@
 - algorithms/compsci:
     - [X] Code
     - [X] Grokking Algorithms
-    - [X] Cracking the Coding Interview
+    - [ ] Cracking the Coding Interview
     - [ ] The Structure and Interpretation of Computer Programs
     - [ ] Introduction to Algorithms
+    - [ ] Algorithms
+    - [ ] Introduction to Automata Theory
     - [ ] Programming Languages: Application and Interpretation
 - linux/unix:
     - [X] Unix for Poets
@@ -58,9 +57,10 @@
     - [ ] The Linux Programming Interface
 - programming:
     - [X] Effective Python
+    - [ ] **Fluent Python**
     - [X] Mastering Python Regular Expressions
-    - [ ] Fluent Python
     - [ ] Learning Python
     - [ ] Accelerated C++
     - [ ] Python Cookbook
+    - [X] I Heart Logs
     - [ ] JavaScript: the Definitive Guide 
