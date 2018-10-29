@@ -1,13 +1,13 @@
 ### THINGS TO READ:
 - math/stats:
     - [X] Introduction to Mathematical Statistics
+    - [X] Linear Algebra Done Right
     - [ ] Elements of Information Theory
-    - [ ] Linear Algebra Done Right
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
     - [ ] Introduction to Statistics with Python
     - [ ] Topology Without Tears
-    - [ ] Bayesian Machine Learning
+    - [ ] Bayesian Reasoning and Machine Learning
 - NLP/ML:
     - [X] NLTK Book
     - [X] Hands on Machine Learning
@@ -18,10 +18,9 @@
     - [X] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems with Python
-    - [ ] Bayesian Reasoning and Machine Learning
     - [ ] The Elements of Statistical Learning
     - [ ] Think Python
-- data sciene:
+- data science:
     - [X] Python for Data Analysis
     - [ ] Data Science at the Command Line
     - [ ] SQL Cookbook
