@@ -19,6 +19,7 @@
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems with Python
     - [ ] The Elements of Statistical Learning
+    - [ ] Reinforcement Learning: An Introduction
     - [ ] Think Python
 - data science:
     - [X] Python for Data Analysis
