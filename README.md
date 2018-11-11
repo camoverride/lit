@@ -3,6 +3,7 @@
     - [ ] *The Princeton Companion to Mathematics*
     - [X] Introduction to Mathematical Statistics
     - [X] *Linear Algebra Done Right*
+    - [X] Doing Math with Python
     - [ ] Elements of Information Theory
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
