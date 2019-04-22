@@ -4,7 +4,7 @@
     - [X] Introduction to Mathematical Statistics
     - [X] *Linear Algebra Done Right*
     - [X] Doing Math with Python
-    - [ ] Elements of Information Theory
+    - [X] Elements of Information Theory
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
     - [ ] Introduction to Statistics with Python
@@ -20,13 +20,13 @@
     - [X] *Path to Predictive Analytics and Machine Learning*
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems with Python
-    - [ ] The Elements of Statistical Learning
+    - [X] The Elements of Statistical Learning
     - [ ] Reinforcement Learning: An Introduction
     - [ ] Think Python
 - data science:
     - [X] *Python for Data Analysis*
     - [ ] *Data Science at the Command Line*
-    - [ ] *SQL Cookbook*
+    - [X] *SQL Cookbook*
     - [ ] *Web Scraping with Python*
     - [ ] *Building Real Time Data Pipelines*
     - [ ] Data Science from Scratch
@@ -35,11 +35,11 @@
     - [ ] Data Analysis Using Regression
     - [ ] Data Science and Complex Networks
     - [ ] Doing Data Analysis
-    - [ ] Mathematical Statistics and Data Analysis
+    - [X] Mathematical Statistics and Data Analysis
     - [ ] Python End-to-End Data Analysis
 - networks:
     - [X] Flask Web Development
-    - [ ] *Violent Python*
+    - [X] *Violent Python*
     - [ ] CCNA Electronic Book
     - [ ] Hacking: The Art of Exploitation
     - [ ] Internet Routing Architectures
@@ -61,5 +61,5 @@
     - [X] Mastering Python Regular Expressions
     - [ ] Learning Python
     - [ ] Accelerated C++
-    - [ ] Python Cookbook
+    - [X] Python Cookbook
     - [ ] JavaScript: the Definitive Guide 
