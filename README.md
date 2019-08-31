@@ -2,8 +2,7 @@
 
 These are books that I've enjoyed or found useful. I've skimmed all of them, but have only read the ones that have been checked-off. I can't guarantee that all of these books have been acquired in a lawful way. Have fun.
 
-### math/stats
-
+math/stats
     - [ ] The Princeton Companion to Mathematics
     - [X] **Introduction to Mathematical Statistics**
     - [ ] **Linear Algebra Done Right**
@@ -13,9 +12,7 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
     - [ ] Bayesian Reasoning and Machine Learning
-
-### artificial intelligence
-
+artificial intelligence
     - [X] NLTK Book
     - [X] **Hands on Machine Learning**
     - [X] **Handbook of Natural Language Processing**
@@ -28,9 +25,7 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
     - [ ] Building Machine Learning Systems with Python
     - [ ] Reinforcement Learning: An Introduction
     - [ ] Think Python
-
-### data science
-
+data science
     - [ ] **Python for Data Analysis**
     - [ ] Python End-to-End Data Analysis
     - [ ] **Doing Data Science**
@@ -43,33 +38,25 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
     - [ ] Data Analysis Using Regression
     - [ ] Data Science and Complex Networks
     - [ ] Doing Data Analysis
-
-### networks
-
+networks
     - [X] Flask Web Development
     - [ ] Violent Python
     - [ ] CCNA Electronic Book
     - [ ] Hacking: The Art of Exploitation
     - [ ] Internet Routing Architectures
     - [ ] Communications and Networking
-
-### computer science
-
+computer science
     - [X] Code
     - [X] **Grokking Algorithms**
     - [x] **Cracking the Coding Interview**
     - [ ] The Structure and Interpretation of Computer Programs
     - [ ] Introduction to Algorithms
     - [ ] Programming Languages: Application and Interpretation
-
-### operating systems
-
+operating systems
     - [X] Unix for Poets
     - [X] How Linux Works
     - [ ] The Linux Programming Interface
-
-### programming
-
+programming
     - [X] Mastering Python Regular Expressions
     - [X] **Effective Python**
     - [ ] Fluent Python
