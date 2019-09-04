@@ -5,7 +5,7 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
 - math/stats
     - [ ] The Princeton Companion to Mathematics
     - [X] **Introduction to Mathematical Statistics**
-    - [ ] **Linear Algebra Done Right**
+    - [X] Linear Algebra Done Right
     - [ ] **Doing Math with Python**
     - [ ] **Introduction to Statistics with Python**
     - [ ] Elements of Information Theory
@@ -18,6 +18,7 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
     - [X] **Handbook of Natural Language Processing**
     - [X] **Deep Learning Book**
     - [X] **Speech and Language Processing** (https://web.stanford.edu/~jurafsky/slp3/)
+    - [ ] Artificial Intelligence: A Modern Approach
     - [ ] Elements of Statistical Learning
     - [ ] Programming Collective Intelligence
     - [ ] Path to Predictive Analytics and Machine Learning
@@ -48,7 +49,7 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
 - computer science
     - [X] Code
     - [X] **Grokking Algorithms**
-    - [x] **Cracking the Coding Interview**
+    - [X] **Cracking the Coding Interview**
     - [ ] The Structure and Interpretation of Computer Programs
     - [ ] Introduction to Algorithms
     - [ ] Programming Languages: Application and Interpretation
