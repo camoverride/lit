@@ -1,6 +1,8 @@
-# Books
+# lit
 
-These are books that I've enjoyed or found useful. I've skimmed all of them, but have only read the ones that have been checked-off. I can't guarantee that all of these books have been acquired in a lawful way. Have fun.
+This is a collection of technical books and papers that I've enjoyed. I can't guarantee that all of these books have been acquired in a lawful way. Have fun.
+
+## Books
 
 - math/stats
     - [ ] The Princeton Companion to Mathematics
@@ -65,3 +67,10 @@ These are books that I've enjoyed or found useful. I've skimmed all of them, but
     - [ ] Learning Python
     - [ ] Accelerated C++
     - [ ] JavaScript: the Definitive Guide
+
+## Papers
+
+##### Learning without forgetting, Zhizhong Li, Derek Hoiem (2016)
+- http://zli115.web.engr.illinois.edu/wp-content/uploads/2016/10/0479.pdf
+
+Describes different strategies for transfer learning: fine-tuning, feature extraction, joint training, and the paper's new strategy: "learning without forgetting". This tries to solve the problem of "continually adding new prediction tasks based on adapting shared parameters without access to training data for previously learned tasks"
