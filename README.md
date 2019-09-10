@@ -177,6 +177,10 @@ ImageNet: A Large-Scale Hierarchical Image Database. Jia Deng, Wei Dong, Richard
 
 <br>
 
+ImageNet Classification with Deep Convolutional Neural Networks. Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton (2013). [link](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+
+<br>
+
 A State-of-the-Art Survey on Deep Learning Theory and Architectures. Md Zahangir Alom et al (2019). [link](https://www.mdpi.com/2079-9292/8/3/292/htm)
 
 <br>
@@ -186,3 +190,7 @@ Understanding deep learning requires rethinking generalization. Chiyuan Zhang, S
 <br>
 
 A Closer Look at Memorization in Deep Networks. Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien (2017). [link](https://arxiv.org/pdf/1706.05394.pdf)
+
+<br>
+
+Probing Biomedical Embeddings from Language Models. Qiao Jin, Bhuwan Dhingra, William W. Cohen, Xinghua Lu (2019). [link](https://www.aclweb.org/anthology/W19-2011)
