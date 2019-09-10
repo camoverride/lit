@@ -194,3 +194,11 @@ A Closer Look at Memorization in Deep Networks. Devansh Arpit, Stanisław Jastrz
 <br>
 
 Probing Biomedical Embeddings from Language Models. Qiao Jin, Bhuwan Dhingra, William W. Cohen, Xinghua Lu (2019). [link](https://www.aclweb.org/anthology/W19-2011)
+
+<br>
+
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra (2017). [link](https://arxiv.org/pdf/1610.02391.pdf).
+
+<br>
+
+CNN Features off-the-shelf: an Astounding Baseline for Recognition. Ali Sharif Razavian, Hossein Azizpour, Josephine Sullivan, Stefan Carlsson (2014). [link](https://arxiv.org/pdf/1403.6382.pdf)
