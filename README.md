@@ -173,32 +173,48 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 <hr>
 
+Improving Language Understanding by Generative Pre-Training. Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever (2018). [link](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+<hr>
+
+Deep contextualized word representations. Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer (2018). [link](https://arxiv.org/pdf/1802.05365.pdf)
+
+<hr>
+
 ImageNet: A Large-Scale Hierarchical Image Database. Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Li Fei-Fei (2009) [link](http://www.image-net.org/papers/imagenet_cvpr09.pdf)
 
-<br>
+<hr>
 
 ImageNet Classification with Deep Convolutional Neural Networks. Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton (2013). [link](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 
-<br>
+<hr>
 
 A State-of-the-Art Survey on Deep Learning Theory and Architectures. Md Zahangir Alom et al (2019). [link](https://www.mdpi.com/2079-9292/8/3/292/htm)
 
-<br>
+<hr>
 
 Understanding deep learning requires rethinking generalization. Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals (2017). [link](https://arxiv.org/pdf/1611.03530.pdf)
 
-<br>
+<hr>
 
 A Closer Look at Memorization in Deep Networks. Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien (2017). [link](https://arxiv.org/pdf/1706.05394.pdf)
 
-<br>
+<hr>
 
 Probing Biomedical Embeddings from Language Models. Qiao Jin, Bhuwan Dhingra, William W. Cohen, Xinghua Lu (2019). [link](https://www.aclweb.org/anthology/W19-2011)
 
-<br>
+<hr>
 
 Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra (2017). [link](https://arxiv.org/pdf/1610.02391.pdf).
 
-<br>
+<hr>
 
 CNN Features off-the-shelf: an Astounding Baseline for Recognition. Ali Sharif Razavian, Hossein Azizpour, Josephine Sullivan, Stefan Carlsson (2014). [link](https://arxiv.org/pdf/1403.6382.pdf)
+
+<hr>
+
+Know What You Don't Know: Unanswerable Questions for SQuAD. Pranav Rajpurkar, Robin Jia, Percy Liang (2018). [link](https://arxiv.org/pdf/1806.03822.pdf)
+
+<hr>
+
+An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling. Shaojie Bai, J. Zico Kolter, Vladlen Koltun (2018). [link](https://arxiv.org/pdf/1803.01271.pdf)
