@@ -5,6 +5,7 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
 ## Books
 
 - math/stats
+    - [ ] Mathematics for Machine Learning
     - [ ] The Princeton Companion to Mathematics
     - [X] **Introduction to Mathematical Statistics**
     - [X] Linear Algebra Done Right
