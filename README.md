@@ -9,8 +9,8 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
     - [ ] The Princeton Companion to Mathematics
     - [X] **Introduction to Mathematical Statistics**
     - [X] Linear Algebra Done Right
-    - [ ] **Doing Math with Python**
-    - [ ] **Introduction to Statistics with Python**
+    - [X] **Doing Math with Python**
+    - [X] **Introduction to Statistics with Python**
     - [ ] Elements of Information Theory
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
@@ -25,27 +25,21 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
     - [ ] Artificial Intelligence: A Modern Approach
     - [ ] Elements of Statistical Learning
     - [ ] Programming Collective Intelligence
-    - [ ] Path to Predictive Analytics and Machine Learning
     - [ ] Introduction to Machine Learning
     - [ ] Building Machine Learning Systems with Python
     - [ ] Reinforcement Learning: An Introduction
     - [ ] Think Python
 - data science
-    - [ ] **Python for Data Analysis**
+    - [X] **Python for Data Analysis**
     - [ ] Python End-to-End Data Analysis
-    - [ ] **Doing Data Science**
+    - [ ] Doing Data Science
     - [ ] Data Science at the Command Line
     - [ ] SQL Cookbook
     - [ ] Web Scraping with Python
-    - [ ] Building Real Time Data Pipelines
-    - [ ] Data Science from Scratch
     - [ ] Building Real Time Data Platforms
-    - [ ] Data Analysis Using Regression
     - [ ] Data Science and Complex Networks
-    - [ ] Doing Data Analysis
 - networks
     - [X] Flask Web Development
-    - [ ] Violent Python
     - [ ] CCNA Electronic Book
     - [ ] Hacking: The Art of Exploitation
     - [ ] Internet Routing Architectures
@@ -63,14 +57,21 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
     - [ ] The Linux Programming Interface
 - programming
     - [X] Mastering Python Regular Expressions
-    - [X] **Effective Python**
+    - [X] Effective Python
     - [ ] Fluent Python
     - [ ] Python Cookbook
-    - [ ] Learning Python
     - [ ] Accelerated C++
     - [ ] JavaScript: the Definitive Guide
 
 ## Papers
+
+### Embeddings
+
+A simple but hard-to-beat baseline for sentence embeddings. Sanjeev Arora, Yingyu Liang, Tengyu Ma (2017). [link](https://openreview.net/pdf?id=SyK00v5xx)
+
+Describes how taking a weighted average of the word vectors in a sentence can produce high-quality sentence embeddings.s
+
+<hr>
 
 Learning without forgetting. Zhizhong Li, Derek Hoiem (2016). [link](http://zli115.web.engr.illinois.edu/wp-content/uploads/2016/10/0479.pdf)
 
