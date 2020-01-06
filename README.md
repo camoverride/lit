@@ -48,6 +48,7 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
     - [X] Code
     - [X] **Grokking Algorithms**
     - [X] **Cracking the Coding Interview**
+    - [ ] Data Structures and Algorithms in Python
     - [ ] The Structure and Interpretation of Computer Programs
     - [ ] Introduction to Algorithms
     - [ ] Programming Languages: Application and Interpretation
