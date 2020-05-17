@@ -5,16 +5,17 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
 ## Books
 
 - math/stats
-    - [ ] Mathematics for Machine Learning
-    - [ ] The Princeton Companion to Mathematics
+    - [ ] Introduction to Linear Algebra
     - [ ] Understanding Digital Signal Processing
     - [X] **Introduction to Mathematical Statistics**
-    - [X] Doing Math with Python
     - [X] **Introduction to Statistics with Python**
     - [ ] Elements of Information Theory
     - [ ] Mathematical Statistics and Data Analysis
     - [ ] Probability and Random Variables
     - [ ] Bayesian Reasoning and Machine Learning
+    - [ ] Mathematics for Machine Learning
+    - [ ] The Princeton Companion to Mathematics
+    - [X] Doing Math with Python
 
 - artificial intelligence
     - [X] NLTK Book
