@@ -5,36 +5,41 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
 ## Books
 
 - math/stats
+    - [ ] Mathematical Statistics and Data Analysis
+    - [X] Introduction to Mathematical Statistics
+    - [X] Doing Math with Python
     - [ ] Introduction to Linear Algebra
     - [ ] Understanding Digital Signal Processing
-    - [X] **Introduction to Mathematical Statistics**
-    - [X] **Introduction to Statistics with Python**
     - [ ] Elements of Information Theory
-    - [ ] Mathematical Statistics and Data Analysis
-    - [ ] Probability and Random Variables
     - [ ] Bayesian Reasoning and Machine Learning
     - [ ] Mathematics for Machine Learning
     - [ ] The Princeton Companion to Mathematics
-    - [X] Doing Math with Python
 
 - artificial intelligence
     - [X] NLTK Book
-    - [X] **Handbook of Natural Language Processing**
-    - [X] **Deep Learning Book**
-    - [X] **Speech and Language Processing** (https://web.stanford.edu/~jurafsky/slp3/)
+    - [X] Handbook of Natural Language Processing
+    - [X] Deep Learning Book
+    - [X] Speech and Language Processing (https://web.stanford.edu/~jurafsky/slp3/)
     - [X] Zero to Deep Learning
+    - [ ] Deep Learning for Coders With Fastai and PyTorch
     - [ ] Artificial Intelligence: A Modern Approach
     - [ ] Elements of Statistical Learning
     - [ ] Introduction to Machine Learning
-    - [ ] Reinforcement Learning: An Introduction
 
 - data science
-    - [X] **Python for Data Analysis**
-    - [X] **Hands on Machine Learning**
-    - [ ] Python End-to-End Data Analysis
+    - [X] Hands on Machine Learning
+    - [ ] Python for Data Analysis
     - [ ] Doing Data Science
     - [ ] SQL Cookbook
     - [ ] Data Science and Complex Networks
+
+- computer science
+    - [X] Code
+    - [X] Grokking Algorithms
+    - [X] Cracking the Coding Interview
+    - [ ] Introduction to Algorithms
+    - [ ] The Structure and Interpretation of Computer Programs
+    - [ ] Programming Languages: Application and Interpretation
 
 - networks
     - [X] Flask Web Development
@@ -43,15 +48,6 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
     - [ ] Internet Routing Architectures
     - [ ] Communications and Networking
 
-- computer science
-    - [X] Code
-    - [X] **Grokking Algorithms**
-    - [X] **Cracking the Coding Interview**
-    - [ ] Data Structures and Algorithms in Python
-    - [ ] The Structure and Interpretation of Computer Programs
-    - [ ] Introduction to Algorithms
-    - [ ] Programming Languages: Application and Interpretation
-
 - operating systems
     - [X] Unix for Poets
     - [X] How Linux Works
@@ -59,10 +55,17 @@ This is a collection of technical books and papers that I've enjoyed. I can't gu
 - programming
     - [X] Mastering Python Regular Expressions
     - [X] Effective Python
-    - [ ] Accelerated C++
     - [ ] JavaScript: the Definitive Guide
 
-## Papers
+
+
+
+## ML/AI Papers
+
+### Document Classification
+
+_Deep Learning Based Text Classification: A Comprehensive Review (2020)_ [link](https://arxiv.org/pdf/2004.03705.pdf). Minaee, Kalchbrenner, Cambria, Nikzad, Chenaghlu, Gao.
+
 
 ### Embeddings
 
