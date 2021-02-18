@@ -1,6 +1,8 @@
 # lit
 
-This is a curated collection of technical books that I've found useful in my career as a data scientist. I'm mostly self-taught, though I have a formal background in psychology, laboratory science, and linguistics - my career has been based around NLP (specifically speech) with forays into other regions of the ML, AI, and engineering world. These books are sorted by topic, and the books under each topic are sorted from introductory/general to technical/specific, with some of the "behemoths" listed last.
+Literally just literature
+
+This is a curated collection of technical books that I've found useful in my career as a data scientist. I'm mostly self-taught, though I have a formal background in psychology, linguistics, and laboratory science - my career has been based around NLP (specifically speech) with forays into other regions of the ML, AI, and the engineering world. These books are sorted by topic; the books under each topic are vaguely ordered from introductory/general to technical/specific, with some of the "behemoths" listed last.
 
 I can't guarantee that all of these books have been acquired in a lawful way. Have fun.
 
@@ -18,7 +20,7 @@ A cute re-introduction to math from the perspective of programming. No super adv
 [link](https://github.com/camoverride/lit/blob/master/Introduction-to-Mathematical-Statistics.pdf)
 
 ### Mathematics for Machine Learning
-[link](https://github.com/camoverride/lit/blob/master/Mathematics-for-Machine-Learning.pdf)
+[link](https://mml-book.github.io/)
 
 ### Elements of Information Theory
 [link](https://github.com/camoverride/lit/blob/master/Elements-of-Information-Theory.pdf)
@@ -68,7 +70,7 @@ A solid introduction to the practice of data science. Good mixture of code and t
 [link](https://github.com/camoverride/lit/blob/master/Doing-Data-Science.pdf)
 
 ### SQL Cookbook
-Another massive O'Reilley textbook. I used this to learn the basics of SQL and still return to it from time to time with questions, but I've found the website [SQL Zoo](https://sqlzoo.net/) much more useful for getting up and running with SQL.
+Another massive O'Reilley textbook. I used this to learn the basics of SQL and still return to it from time to time with questions, but I've found the website [SQL Zoo](https://sqlzoo.net/) much more useful for getting up and running with SQL, so I'd start there before moving on to this book.
 [link](https://github.com/camoverride/lit/blob/master/SQL-Cookbook.pdf)
 
 
