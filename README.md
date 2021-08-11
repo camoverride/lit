@@ -47,10 +47,14 @@ This book is extremely hands-on: little formal math but lots of code examples. T
 
 [link](https://github.com/camoverride/lit/blob/master/The-Elements-of-Statistical-Learning.pdf)
 
+A strong, mathy overview of machine learning, including deep learning. A book that most AI practitioners will encounter at some point.
+
 
 ### Artificial Intelligence: A Modern Approach
 
 [link](https://github.com/camoverride/lit/blob/master/Artificial-Intelligence-A-Modern-Approach-3rd-ed.pdf)
+
+The bible of artificial intelligence: all the background ideas, theories, and debates you'll encounter in the AI field will be presented here. This book can feel a little archaic as some of the techniques presented have fallen out of use, but understanding the history of the field is just as important as being a theoretician or a hacker.
 
 
 ## data science
@@ -102,6 +106,8 @@ This is the bible of computer science algorithms. Totally comprehensive, stuffed
 ### The Structure and Interpretation of Computer Programs
 
 [link](https://github.com/camoverride/lit/blob/master/The-Structure-and-Interpretation-of-Computer-Programs.pdf)
+
+A big, broad, biblical overview of the field of computer science. A book that all the "old guru's" have read. Definitely archaic (code is written in _Lisp_) but worth a non-close-reading.
 
 
 ## programming
@@ -169,20 +175,28 @@ A great introduction to the fundamentals of mathematical statistics. Although th
 
 [link](https://mml-book.github.io/)
 
+If you've started a career in AI but have some nagging doubts that your math knowledge might be incomplete, this is the book that'll plug up all the holes in your knowledge. The title says it all: it's a tour de force of all the math you need to understand ML and feel confident.
+
 
 ### Elements of Information Theory
 
 [link](https://github.com/camoverride/lit/blob/master/Elements-of-Information-Theory.pdf)
+
+Information theory is not often talked about in the corporate world, but it has many parallels with the "standard suite" of mathematical techniques you'll encounter. For someone wanting a truly well-rounded AI background, information theory is worth looking into.
 
 
 ### Understanding Digital Signal Processing
 
 [link](https://github.com/camoverride/lit/blob/master/Understanding-Digital-Signal-Processing.pdf)
 
+Like information theory, DSP is another area of mathematics that AI people will extract tools and ideas from (like fourier analysis) but usually not go deeply into - if you want to go deep, this is the book to read!
+
 
 ### The Princeton Companion to Mathematics
 
 [link](https://github.com/camoverride/lit/blob/master/The-Princeton-Companion-to-Mathematics.pdf)
+
+There's a lot else going on in math apart from linear algebra, information theory, and DSP. This cinderblock-sized book is comprehensive - read it and you'll be able to have a real conversation with a mathematician instead of your eyes glazing over.
 
 
 ## networks
@@ -194,11 +208,8 @@ A great introduction to the fundamentals of mathematical statistics. Although th
 If you're using Python and want to start doing web development, this is a good place to start. Flask is ubiquitous in the Python world and if you want to make interesting projects, you should get confortable with it. This book is hands-on and not at all concerned with theory. If you've never heard of HTML before, this might be a little bit too advanced for you, but if [you've made a static website](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and want to get to the next level, start here.
 
 
-### CCNA Electronic Book
-
-[link](https://github.com/camoverride/lit/blob/master/CCNA-Electronic-Book.pdf)
-
-
 ### Internet Routing Architectures
 
 [link](https://github.com/camoverride/lit/blob/master/Internet-Routing-Architectures.pdf)
+
+A painfully in-depth book about how the internet works. Unlike the Flask book, this one is theoretical and won't be super relevant to your job as an AI practitioner. But if you ever want a boost of confidence - the feeling that you _get_ how the internet works - this is a great resource.
