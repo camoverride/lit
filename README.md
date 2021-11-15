@@ -160,8 +160,9 @@ If you've just started exploring the world of the command line (peering beneath 
 
 ### Doing Math with Python
 
-A cute re-introduction to math from the perspective of programming. No super advanced or surprising concepts make it into this book (it's all just high school math), but it's a nice reality check if you're used to thinking of math and programming as two totally different domains.
 [link](https://github.com/camoverride/lit/blob/master/Doing-Math-With-Python.pdf)
+
+A cute re-introduction to math from the perspective of programming. No super advanced or surprising concepts make it into this book (it's all just high school math), but it's a nice reality check if you're used to thinking of math and programming as two totally different domains.
 
 
 ### Introduction to Mathematical Statistics
@@ -196,7 +197,7 @@ Like information theory, DSP is another area of mathematics that AI people will 
 
 [link](https://github.com/camoverride/lit/blob/master/The-Princeton-Companion-to-Mathematics.pdf)
 
-There's a lot else going on in math apart from linear algebra, information theory, and DSP. This cinderblock-sized book is comprehensive - read it and you'll be able to have a real conversation with a mathematician instead of your eyes glazing over.
+There's a lot else going on in math apart from linear algebra, information theory, and DSP. This cinderblock-sized book is comprehensive - read it and you'll be able to have a real conversation with a mathematician without your eyes glazing over.
 
 
 ## networks
