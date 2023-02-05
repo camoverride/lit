@@ -10,6 +10,8 @@ I can't guarantee that all of these books have been acquired in a lawful way.
 
 Have fun 😉
 
+P.S. - open an issue if you find updated versions of any of these books.
+
 [Read this](https://github.com/camoverride/lit/wiki/Read-This-to-Know-What-Books-to-Read!) for more details about how to get started
 
 
